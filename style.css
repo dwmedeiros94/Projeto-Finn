@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-color: #2CB3F3;
+}
+
+
+/* HEADER */
+
+
+.conteiner1{
+  width: 400px;
+  height: 100px;
+  position: relative;
+  top: 5px;
+  left: 447px;
+}
+
+.conteiner1 h1{
+  width: 120px;
+  font-weight: bold;
+  position: absolute;
+  top: 16px;
+  left: 150px;  
+}
+
+.conteiner1 h3{
+  width: 330px;
+  position: absolute;
+  top: 60px;
+  left: 40px;
+}
+
+
+/* MAIN */
+
+
+.corpo1-finn{
+  background-color: white;
+  width: 500px;
+  height: 270px;
+  border-radius: 70px;
+  position: relative;
+  top: 12px;
+  left: 404px;
+}
+
+.corpo2-finn{
+  background: white;
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  top: 315px;
+  left: 404px;
+}
+
+.rosto-finn{
+  background-color: 
+#FFE1C9;
+  width: 430px;
+  height: 290px;
+  border-radius: 60%;
+  position: absolute;
+  top: 180px;
+  left: 435px;
+}
+
+.olhos-finn{
+  width: 280px;
+  height: 50px;
+  position: absolute;
+  top: 240px;
+  left: 510px;
+}
+
+.olho-esquerdo{
+  background-color: black;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  position: absolute;
+  top: 8px;
+  left: 10px;
+}
+
+.olho-direito{
+  background-color: black;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  position: absolute;
+  top: 8px;
+  left: 230px;
+}
+
+.boca{
+  background: gray;
+  width: 236px;
+  position: relative;
+  left: 530px;
+  bottom: 50px;
+}
+
+.email{
+  width: 235px;
+  padding: 3%;
+  border-radius: 3px;
+  border: 2px solid;
+}
+
+.password{
+  width: 235px;
+  padding: 3%;
+  border-radius: 3px;
+  border: 2px solid;
+}
+
+.btn{
+  width: 25px;
+  position: absolute;
+  top: 530px;
+  left: 590px;
+}
+
+.btn button{
+  background: #55A603;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+  box-shadow: -1px 2px 2px black;
+  width: 130px;
+  padding: 30%;
+  cursor: pointer;
+  transition: 0.1s all;
+}
+
+.btn button:hover{
+  transform: scale(1.1);
+}
