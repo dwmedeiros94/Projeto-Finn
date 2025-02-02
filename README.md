@@ -4,7 +4,7 @@ Este projeto foi desenvolvido utilizando **HTML** e **CSS**, com foco no uso da 
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias utilizadas
 
 **HTML5**: Para a estruturação do conteúdo da página.
 
